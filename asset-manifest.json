@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/checkout-page/static/css/main.9d065faf.css",
+    "main.js": "/checkout-page/static/js/main.5ce7ca2f.js",
+    "static/js/787.065dcc19.chunk.js": "/checkout-page/static/js/787.065dcc19.chunk.js",
+    "static/media/photo1.png": "/checkout-page/static/media/photo1.c58152e4c0dbd5d5537c.png",
+    "static/media/photo2.png": "/checkout-page/static/media/photo2.7a9cbdf23f91835153ee.png",
+    "index.html": "/checkout-page/index.html",
+    "static/media/public_24dp.svg": "/checkout-page/static/media/public_24dp.6092e1f07989e2106e66.svg",
+    "static/media/phone_24dp.svg": "/checkout-page/static/media/phone_24dp.f3d6e0461f36b0370eca.svg",
+    "static/media/account_circle_24dp.svg": "/checkout-page/static/media/account_circle_24dp.df3bd7c9411724206a7b.svg",
+    "static/media/location_city_24dp.svg": "/checkout-page/static/media/location_city_24dp.f8257fc41fcbb4e986b8.svg",
+    "static/media/email_24dp.svg": "/checkout-page/static/media/email_24dp.2ad8b4d20c88d11c40ca.svg",
+    "static/media/markunread_mailbox_24dp.svg": "/checkout-page/static/media/markunread_mailbox_24dp.d3c8094eb13d2a629028.svg",
+    "static/media/add_black_24dp.svg": "/checkout-page/static/media/add_black_24dp.a3bae6dba0d02e61d7fd0971b4082859.svg",
+    "static/media/home_24dp.svg": "/checkout-page/static/media/home_24dp.616c43bb37f38d233fd9.svg",
+    "static/media/remove_black_24dp.svg": "/checkout-page/static/media/remove_black_24dp.3a95ec1bc42edc7767bc15c309d18243.svg",
+    "main.9d065faf.css.map": "/checkout-page/static/css/main.9d065faf.css.map",
+    "main.5ce7ca2f.js.map": "/checkout-page/static/js/main.5ce7ca2f.js.map",
+    "787.065dcc19.chunk.js.map": "/checkout-page/static/js/787.065dcc19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d065faf.css",
+    "static/js/main.5ce7ca2f.js"
+  ]
+}
