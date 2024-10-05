@@ -10,7 +10,7 @@
       Live Link
     </a>
     <span> | </span>
-    <a href="https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
+    <a href="https://web.archive.org/web/20240417030154/https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO">
       Challenge
     </a>
   </h3>
@@ -22,23 +22,22 @@
   - [Built With](#built-with)
 - [Features](#features)
 - [Requirements](#requirements)
+- [Thoughts](#thoughts)
 - [Useful Resources](#useful-resources)
 
 ## Overview
 
-![](checkout-page-mobile.png)
+![Mobile](checkout-page-mobile.png)
 
-![](checkout-page-desktop.png)
+***
 
-![](checkout-page-desktop-required.png)
+![Desktop](checkout-page-desktop.png)
 
-Orange is a difficult color to make pass accessibility contrast tests.
+***
 
-Obviously, to build this out completely, you would probably need redux or state management.  The form would have more validation as well.  React Hook Form implementation is quite minimal.  I have been meaning to look into it and I used this project as an excuse.
+![Desktop Required error](checkout-page-desktop-required.png)
 
-Could separate component css into own files.
-
-To add a background to the arrow of the select box is a ton of work (vs what it adds) and a minefield of accessibility concerns.
+***
 
 ### Built With
 
@@ -47,7 +46,7 @@ To add a background to the arrow of the select box is a ton of work (vs what it 
 
 ## Features
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO) was to build an application to complete the given user stories.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://web.archive.org/web/20240417030154/https://legacy.devchallenges.io/challenges/0J1NxxGhOUYVqihwegfO) was to build an application to complete the given user stories. **Note**: The previous design document may be incomplete, as you need to find an archived version of the challenge as all `legacy` challenges have had their documentation removed from DevChallenges.
 
 ## Requirements
 
@@ -57,6 +56,16 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - [x] I can select at least 3 countries from the dropdown
 - [x] When I click submit button or press enter, I can see a warning if validation fails
 - [x] When I click submit button or press enter, I can see a successful alert if validation succeeds
+
+## Thoughts
+
+- Orange is a difficult color to make pass accessibility contrast tests.
+
+- Obviously, to build this out completely, you would probably need redux or state management.  The form would have more validation as well.  React Hook Form implementation is quite minimal.  I have been meaning to look into it and I used this project as an excuse.
+
+- Could separate component css into own files.
+
+- To add a background to the arrow of the select box is a ton of work (vs. what it adds) and a minefield of accessibility concerns.
 
 ## Useful Resources
 
